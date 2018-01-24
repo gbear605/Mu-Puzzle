@@ -1,0 +1,6 @@
+[package]
+name = "Mu-Puzzle"
+version = "0.1.0"
+authors = ["gbear605 <developer@vivissi.com>"]
+
+[dependencies]
